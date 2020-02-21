@@ -58,11 +58,12 @@
 ##### -------------------------------------
 ##### MODIFIER UNE LIGNE
 ##### -------------------------------------
-##### UPDATE `client` SET `nomClient`='chipie' WHERE `idClient` = 1
+``php UPDATE `client` SET `nomClient`='chipie' WHERE `idClient` = 1
 
-##### UPDATE `commande` SET `nomCommande`='commande1' WHERE `idCommande` = 1
+UPDATE `commande` SET `nomCommande`='commande1' WHERE `idCommande` = 1
 
-##### UPDATE `produit` SET `nomProduit`='croquette' WHERE `idProduit` = 1
+UPDATE `produit` SET `nomProduit`='croquette' WHERE `idProduit` = 1
+``
 
 
 ##### -------------------------------------
